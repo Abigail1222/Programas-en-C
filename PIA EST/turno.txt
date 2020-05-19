@@ -1,0 +1,21 @@
+
+Ticket: I-0
+Operacion: Aclaraciones
+Creacion
+Hora: 15
+Minutos: 4
+Segundos: 32
+Eliminacion
+Hora: 15
+Minutos: 6
+Segundos: 35
+Ticket: A-0
+Operacion: Retiro de efectivo
+Creacion
+Hora: 15
+Minutos: 10
+Segundos: 19
+Eliminacion
+Hora: 15
+Minutos: 10
+Segundos: 23
